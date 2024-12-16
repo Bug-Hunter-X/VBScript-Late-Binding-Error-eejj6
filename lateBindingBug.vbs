@@ -1,0 +1,1 @@
+Late Binding: VBScript allows late binding, meaning that you don't have to explicitly declare object variables before using them. While this offers flexibility, it can lead to runtime errors if the object doesn't exist or if a method or property name is misspelled.  This is especially problematic in large or complex scripts.
